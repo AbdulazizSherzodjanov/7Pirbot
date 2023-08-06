@@ -7,5 +7,5 @@ The main purpose of this bot is for tourists to easily find out the hotel, resta
 - Python Aiogram
 <hr>
 <p align="center">
-<img src="https://github.com/AbdulazizSherzodjanov/7Pirbot/assets/99313212/ba3ae94c-ca83-4453-a4fc-38fea105349a.gif" alt="animated" />
+<img src="https://github.com/AbdulazizSherzodjanov/7Pirbot/assets/99313212/ba3ae94c-ca83-4453-a4fc-38fea105349a.gif" alt="animated" height=500 width=500/>
 </p>
