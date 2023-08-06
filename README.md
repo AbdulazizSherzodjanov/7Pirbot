@@ -1,5 +1,5 @@
 <h2>7 Pir Bot 🤖</h2>
-A bot made to reach the finals of the <b>Mohirfest22 marathon.</b><br>
+A bot made to reach the final of the <b>Mohirfest22 marathon.</b><br>
 <i>This bot was programmed by me.</i><br>
 I developed this bot in 3 languages for tourists visiting the 7pir shrine in Bukhara.<br>
 The main purpose of this bot is for tourists to easily find out the hotel, restaurant, and emergency numbers in Bukhara.<br>
