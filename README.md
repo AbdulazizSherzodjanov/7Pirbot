@@ -1,4 +1,4 @@
-<h1>7 Pir Bot</h1>
+<h1>7 Pir Bot 🤖</h1>
 A bot made to reach the finals of the Mohirfest22 marathon.<br>
 This bot was programmed by me.<br>
 I developed this bot in 3 languages for tourists visiting the 7pir shrine in Bukhara.<br>
